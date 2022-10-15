@@ -1,0 +1,9 @@
+cn\mldn\microboot\config\DruidConfig.class
+cn\mldn\microboot\util\controller\AbstractBaseController.class
+cn\mldn\microboot\StartSpringBootMain.class
+cn\mldn\microboot\controller\DeptController.class
+cn\mldn\microboot\vo\Dept.class
+cn\mldn\microboot\service\IDeptService.class
+cn\mldn\microboot\dao\IDeptDAO.class
+cn\mldn\microboot\service\impl\DeptServiceImpl.class
+cn\mldn\microboot\vo\Member.class
