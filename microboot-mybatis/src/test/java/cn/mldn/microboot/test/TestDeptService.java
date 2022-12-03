@@ -10,7 +10,7 @@ import org.springframework.test.context.web.WebAppConfiguration;
 
 import cn.mldn.microboot.StartSpringBootMain;
 import cn.mldn.microboot.service.IDeptService;
-import cn.mldn.microboot.vo.Dept;
+import cn.mldn.microboot.dao.Dept;
 
 @SpringBootTest(classes = StartSpringBootMain.class)
 @RunWith(SpringJUnit4ClassRunner.class)

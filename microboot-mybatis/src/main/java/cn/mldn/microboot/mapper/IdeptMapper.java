@@ -1,12 +1,11 @@
-package cn.mldn.microboot.dao;
+package cn.mldn.microboot.mapper;
 
 import java.util.List;
-
 import org.apache.ibatis.annotations.Mapper;
+import cn.mldn.microboot.dao.Dept;
 
-import cn.mldn.microboot.vo.Dept;
 @Mapper
-public interface IDeptDAO {
+public interface IdeptMapper {
 	public List<Dept> findAll();
 	public boolean doCreate(Dept vo) ;
 }

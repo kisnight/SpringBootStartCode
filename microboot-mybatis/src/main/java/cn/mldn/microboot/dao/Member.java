@@ -1,4 +1,4 @@
-package cn.mldn.microboot.vo;
+package cn.mldn.microboot.dao;
 
 import java.io.Serializable;
 import java.util.Date;

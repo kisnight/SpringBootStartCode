@@ -4,8 +4,7 @@ import java.util.List;
 
 import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
-
-import cn.mldn.microboot.vo.Dept;
+import cn.mldn.microboot.dao.Dept;
 
 public interface IDeptService {
 	@Transactional(readOnly = true)

@@ -4,11 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ede02453-a89c-41f3-b8ce-b10d2b0a34df" name="Changes" comment="" />
+    <list default="true" id="ede02453-a89c-41f3-b8ce-b10d2b0a34df" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/Helper/VersionHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/aps/CiInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/aps/FileParseParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/aps/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/fileparser/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/fileparser/FileParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/fileparser/FileParserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/mapper/FileUploadMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/DynamicPerformanceService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/impl/DynamicPerformanceServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/uploadasync/FileUploadParseTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/IDeptDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/mapper/IdeptMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/IDeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/IDeptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/impl/DeptServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/vo/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/Dept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/vo/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/cn/mldn/Dept.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/cn/mldn/Dept.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cn/mldn/microboot/test/TestDeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/mldn/microboot/test/TestDeptService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/cn.mldn/microboot-mybatis/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/cn.mldn/microboot-mybatis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/dao/IDeptDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/service/IDeptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/service/IDeptService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/service/impl/DeptServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/service/impl/DeptServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/vo/Dept.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/vo/Member.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mybatis/mapper/cn/mldn/Dept.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/cn/mldn/Dept.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/mldn/microboot/test/TestDeptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cn/mldn/microboot/test/TestDeptService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../microboot-redis/microboot-redis.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -25,14 +69,21 @@
   <component name="ProjectId" id="2G8EYzjohzGKdGJbm3Up54vHdV6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../microboot-redis" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../springboot-mybatis" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.mldn.microboot.mapper" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="StartSpringBootMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -40,7 +91,7 @@
       <module name="microboot-mybatis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.mldn.microboot.*" />
+          <option name="PATTERN" value="cn.mldn.microboot.fileparser.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,6 +127,18 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -105,9 +168,9 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/IDeptDAO.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/cn/mldn/microboot/mapper/IdeptMapper.java</url>
           <line>9</line>
-          <properties class="cn.mldn.microboot.dao.IDeptDAO" method="findAll" />
+          <properties class="cn.mldn.microboot.mapper.IdeptMapper" method="doCreate" />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
