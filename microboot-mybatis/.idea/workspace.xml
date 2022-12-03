@@ -5,40 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ede02453-a89c-41f3-b8ce-b10d2b0a34df" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/Helper/VersionHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/aps/CiInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/aps/FileParseParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/aps/FileUpload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/fileparser/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/fileparser/FileParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/fileparser/FileParserManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/mapper/FileUploadMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/DynamicPerformanceService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/impl/DynamicPerformanceServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/uploadasync/FileUploadParseTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/IDeptDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/mapper/IdeptMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/IDeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/IDeptService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/impl/DeptServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/service/impl/DeptServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/vo/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/Dept.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/vo/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/mldn/microboot/dao/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/cn/mldn/Dept.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mybatis/mapper/cn/mldn/Dept.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cn/mldn/microboot/test/TestDeptService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cn/mldn/microboot/test/TestDeptService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/cn.mldn/microboot-mybatis/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/cn.mldn/microboot-mybatis/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/dao/IDeptDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/service/IDeptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/service/IDeptService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/service/impl/DeptServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/service/impl/DeptServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/vo/Dept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cn/mldn/microboot/vo/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatis/mapper/cn/mldn/Dept.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mybatis/mapper/cn/mldn/Dept.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/cn/mldn/microboot/test/TestDeptService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/cn/mldn/microboot/test/TestDeptService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../microboot-redis/microboot-redis.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
